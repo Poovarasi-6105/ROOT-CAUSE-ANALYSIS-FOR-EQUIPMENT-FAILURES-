@@ -57,11 +57,11 @@ Threshold alerting with color-coding
 
 ▶️ How to Run the Code
 
-Clone the repository
+1. Clone the repository
 
-Install Python dependencies (if needed)
+2. Install Python dependencies (if needed)
 
-Run the script
+3. Run the script
 
 
 
